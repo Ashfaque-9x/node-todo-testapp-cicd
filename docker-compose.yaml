@@ -4,4 +4,4 @@ services:
   web:
    image: ashfaque9x/node-todo-testapp-cicd:latest
   ports:
-      - "8000:8000"
+    - "8000:8000"
