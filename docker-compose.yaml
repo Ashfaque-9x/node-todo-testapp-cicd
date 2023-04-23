@@ -3,5 +3,5 @@ version: '3.9'
 services:
   web:
    image: ashfaque9x/node-todo-testapp-cicd:latest
-  ports:
-    - "8000:8000"
+   ports:
+     - "8000:8000"
